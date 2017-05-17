@@ -1,2 +1,4 @@
 # BotNetTwitter
-Bot creado con C# (.NET) para twitter utilizando la librería [a link](https://github.com/JoeMayo/LinqToTwitter)Linqtotwitter y de base el proyecto de BotTiempo.
+Bot creado con C# (.NET) para twitter utilizando la librería [Linqtotwitter](https://github.com/JoeMayo/LinqToTwitter) y de base el proyecto de [BotTiempo](https://github.com/Javierif/BotTiempo).
+
+
